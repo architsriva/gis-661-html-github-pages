@@ -19,7 +19,7 @@ The site is designed to be simple, readable, and accessible, following best prac
 
 The webpage is published using GitHub Pages and can be accessed at:
 
-🔗 [(https://architsriva.github.io/architsrivastava.github.io/)]https://architsriva.github.io/architsrivastava.github.io/
+🔗 https://architsriva.github.io/architsrivastava.github.io/
 
 ## Files Included
 
